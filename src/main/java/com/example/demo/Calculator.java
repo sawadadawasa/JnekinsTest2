@@ -9,7 +9,7 @@ public class Calculator {
 	 * @return num1とnum2を足した数
 	 */
 	public int add(int num1, int num2) {
-		return num1 + num2;
+		return num1 * num2;
 	}
 
 }
